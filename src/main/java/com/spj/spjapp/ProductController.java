@@ -1,2 +1,4 @@
-package com.spj.spjapp;public class ProductController {
+package com.spj.spjapp;
+
+public class ProductController {
 }
